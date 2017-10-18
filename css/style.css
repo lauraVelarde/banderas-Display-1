@@ -1,6 +1,7 @@
 div {
   height: 130px;
   box-sizing: border-box;
+
 }
 .yellow {
   padding-top: 8px;
@@ -14,4 +15,5 @@ div {
   background-color: #1C2833;
   margin:15px;
   color: white;
+
 }
